@@ -1,6 +1,8 @@
 # Image-Deblurring
 Image Deblurring using Python
+
 Pick out your dataset according to your choice and adjust the input paths.
+
 Run the model like any python file and get your results.
 
 Sample output:
